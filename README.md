@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bassam M. Mardini
 - 👀 I’m interested in Learning new stuff ...
-- 🌱 I’m currently learning Microsoft Azur.
-- 💞️ I’m looking to collaborate on learning Arduino and Python.
+- 🌱 I’m currently learning Docker.
+- 💞️ I’m looking to collaborate on learning Arduino.
 - 📫 How to reach me bammard@gmail.com
 
 <!---
