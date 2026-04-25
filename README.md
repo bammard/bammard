@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bassam M. Mardini
 - 👀 I’m interested in Learning new stuff ...
-- 🌱 I’m currently learning Docker.
-- 💞️ I’m looking to collaborate on learning Arduino.
+- 🌱 I’m currently learning Linux - GITHUB ang Gitlab - n8n.
 - 📫 How to reach me bammard@gmail.com
 
 <!---
